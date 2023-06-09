@@ -12,7 +12,7 @@
 <div align = "center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
-# Hello there, Matilda Kadzo here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there, Matilda Kadzo Kitsao here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
   <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47m7yeo13geppg9bmazacq061sd7jmtzk8ytextr2k&rid=giphy.gif&ct=g" width="600" height="300"/>
